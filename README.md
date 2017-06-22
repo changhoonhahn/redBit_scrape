@@ -1,1 +1,1 @@
-# redBit_scrape
+# redBit_scrape1. Scrape Bitcoin related subreddits2. Natural language processing on the subreddit posts3. ...4. Profit!
